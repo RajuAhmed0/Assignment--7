@@ -1,0 +1,119 @@
+[
+    {
+      "recipe_id": 1,
+      "recipe_name": "Creamy Alfredo Pasta",
+      "recipe_image": "https://i.ibb.co.com/MSzbXbH/a-photo-of-a-creamy-alfredo-pasta-dish-the-pasta-i-r5u-Ef-Uvv-QTWGSOXqpv-Bdnw-N0-Dhqs-QCToqbg8p6q-CF.jpg",
+      "short_description": "A classic Italian pasta dish with a rich, creamy Alfredo sauce.",
+      "ingredients": [
+        "250 g Fettuccine Pasta",
+        "1/2 cup Butter",
+        "1 cup Heavy Cream",
+        "3/4 cup Parmesan Cheese, grated",
+        "2 cloves Garlic, minced",
+        "Salt to taste",
+        "Black Pepper to taste",
+        "2 tbsp Parsley, chopped"
+      ],
+      "preparing_time": 20,
+      "calories": 650
+    },
+    {
+      "recipe_id": 2,
+      "recipe_name": "Grilled Ribeye Steak with Lemon and Herbs",
+      "recipe_image": "https://i.ibb.co.com/KxG5bCk/a-photo-of-a-perfectly-grilled-ribeye-steak-with-l-l6krjujl-Sn-GKj-S1-Anl35-HQ-vlg8o-Xlq-TBGx6-AE3t.jpg",
+      "short_description": "A perfectly grilled ribeye steak, seasoned with herbs and lemon.",
+      "ingredients": [
+        "2 Ribeye Steaks (about 500 g each)",
+        "2 tbsp Olive Oil",
+        "1 tbsp Lemon Juice",
+        "2 tsp Lemon Zest",
+        "3 cloves Garlic, minced",
+        "1 tbsp Fresh Rosemary, chopped",
+        "1 tbsp Fresh Thyme, chopped",
+        "Salt to taste",
+        "Black Pepper to taste"
+      ],
+      "preparing_time": 25 ,
+      "calories": 700
+    },
+    {
+      "recipe_id": 3,
+      "recipe_name": "Smoothie Bowl with Fresh Fruits",
+      "recipe_image": "https://i.ibb.co.com/16YcpyP/a-photo-of-a-smoothie-bowl-with-fresh-fruits-the-s-YHcho-Ogk-S7-Os-DFMVlvqs-Cw-PMm-Wh-ELu-TXSBWo-LQH.jpg",
+      "short_description": "A vibrant smoothie bowl topped with fresh fruits and granola.",
+      "ingredients": [
+        "2 ripe bananas",
+        "200 g Greek yogurt",
+        "150 ml almond milk",
+        "100 g spinach",
+        "150 g mixed berries (strawberries, blueberries, raspberries)",
+        "30 g granola",
+        "1 tbsp honey",
+        "Fresh fruits for topping (e.g., banana slices, kiwi, and berries)"
+      ],
+      "preparing_time": 10,
+      "calories": 300
+    },
+    {
+      "recipe_id": 4,
+      "recipe_name": "Classic Cheeseburger with Fries",
+      "recipe_image": "https://i.ibb.co.com/tBpKwjJ/a-photo-of-a-classic-cheeseburger-with-fries-the-c-X7-Ku-UDr-MSm6v-BB7-PBTQqr-Q-I7k5-LVIr-Qo-OF0gm-D.jpg",
+      "short_description": "Juicy beef patty topped with cheese, served with crispy fries.",
+      "ingredients": [
+        "500 g ground beef",
+        "1 tsp salt",
+        "1/2 tsp black pepper",
+        "4 slices cheddar cheese",
+        "4 burger buns",
+        "4 lettuce leaves",
+        "1 large tomato, sliced",
+        "1/2 onion, sliced",
+        "Ketchup to taste",
+        "Mustard to taste",
+        "400 g frozen fries"
+      ],
+      "preparing_time": 30 ,
+      "calories": 800
+    },
+    {
+      "recipe_id": 5,
+      "recipe_name": "Seafood Platter with Shrimp and Scallops",
+      "recipe_image": "https://i.ibb.co.com/1v9240w/3b9e9541-199e-48c5-a12f-66d593ee1e17.jpg",
+      "short_description": "A seafood platter with grilled shrimp and seared scallops.",
+      "ingredients": [
+        "300 g shrimp, peeled and deveined",
+        "300 g scallops",
+        "2 tbsp olive oil",
+        "1 tsp garlic powder",
+        "1 tsp paprika",
+        "Salt to taste",
+        "Black pepper to taste",
+        "1 lemon, sliced",
+        "Fresh parsley for garnish",
+        "200 g mixed greens for serving"
+      ],
+      "preparing_time": 20 ,
+      "calories": 450
+    },
+    {
+      "recipe_id": 6,
+      "recipe_name": "Sushi Platter with Assorted Rolls",
+      "recipe_image": "https://i.ibb.co.com/QJFtHFC/56e422fb-1562-4d7e-98ca-3f7cc516055e.jpg",
+      "short_description": "A sushi platter with assorted rolls including tuna and cucumber rolls.",
+      "ingredients": [
+        "300 g sushi rice",
+        "400 ml water",
+        "50 ml rice vinegar",
+        "10 sheets nori (seaweed)",
+        "200 g fresh salmon, sliced",
+        "200 g tuna, sliced",
+        "1 avocado, sliced",
+        "1 cucumber, julienned",
+        "Soy sauce for dipping",
+        "Wasabi to taste",
+        "Pickled ginger for serving"
+      ],
+      "preparing_time": 40 ,
+      "calories": 500
+    }
+  ]
